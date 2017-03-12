@@ -17,6 +17,13 @@ A shortlist of resources for learning Python.
   * [Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
   * [Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 
+## Tutorials
+
+* [Learning to Program](http://www.alan-g.me.uk/l2p/index.htm) (Alan Gauld)
+* [How to Think Like a Computer Scientist](http://www.openbookproject.net/thinkcs/python/english3e/)
+* [Google's Python Class](https://developers.google.com/edu/python/)
+* http://www.learnpython.org/
+* http://introtopython.org/
 
 ## Standout Resources
 
@@ -30,12 +37,6 @@ A shortlist of resources for learning Python.
 
 * [There are LOTS of Books](http://pythonbooks.revolunet.com/)
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) (Zed Shaw)
-
-## Tutorials
-
-* [Google's Python Class](https://developers.google.com/edu/python/)
-* http://www.learnpython.org/
-* http://introtopython.org/
 
 ## Online Environments
 
