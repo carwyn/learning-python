@@ -8,7 +8,8 @@ A shortlist of resources for learning Python.
 
 * [In Finland, Kids Learn Computer Science Without Computers](https://www.theatlantic.com/education/archive/2017/02/teaching-computer-science-without-computers/517548/)
 * [CS Unplugged - Computer Science without a computer](http://csunplugged.org/)
-* [MIT Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+* [MIT Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) ([edX Version](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9))
+* [Udacity Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
 ## Python
 
@@ -25,6 +26,12 @@ A shortlist of resources for learning Python.
 * http://www.learnpython.org/
 * http://introtopython.org/
 
+## Books
+
+* [There are LOTS of Books](http://pythonbooks.revolunet.com/)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) (Zed Shaw)
+* [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/)
+
 ## Standout Resources
 
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/) (Kenneth Reitz)
@@ -32,11 +39,6 @@ A shortlist of resources for learning Python.
 * [Python 3 Module of the Week](https://pymotw.com/3/)
 * [Full Stack Python](https://www.fullstackpython.com/)
 * [Python Pedia](https://pythonpedia.com/)
-
-## Books
-
-* [There are LOTS of Books](http://pythonbooks.revolunet.com/)
-* [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) (Zed Shaw)
 
 ## Online Environments
 
