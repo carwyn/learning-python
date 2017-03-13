@@ -14,22 +14,33 @@ A shortlist of resources for learning Python.
 ## Python
 
 * [The Official Python Website](https://www.python.org/)
-* [Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/)
-  * [Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-  * [Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+* [Python Wiki](https://wiki.python.org/moin/)
+  * [Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/)
+    * [Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+    * [Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 
 ## Tutorials
 
+* [Official Python Tutorial](https://docs.python.org/3/tutorial/)
+* [A Byte of Python](https://python.swaroopch.com/)
+* http://introtopython.org/
+* http://www.learnpython.org/
+* [Google's Python Class](https://developers.google.com/edu/python/)
+
+### In Depth Tutorials
+
 * [Learning to Program](http://www.alan-g.me.uk/l2p/index.htm) (Alan Gauld)
 * [How to Think Like a Computer Scientist](http://www.openbookproject.net/thinkcs/python/english3e/)
-* [Google's Python Class](https://developers.google.com/edu/python/)
-* http://www.learnpython.org/
-* http://introtopython.org/
+  * [Interactive Version](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 
 ## Books
 
 * [There are LOTS of Books](http://pythonbooks.revolunet.com/)
+
+### Online Books
+
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) (Zed Shaw)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/)
 
 ## Standout Resources
@@ -45,6 +56,10 @@ A shortlist of resources for learning Python.
 * [Try Python](https://try-python.appspot.com/)
 * https://trinket.io/
 * https://www.pythonanywhere.com/
+
+## Gamification
+
+* https://checkio.org/
 
 ## Communities and Conferences
 
