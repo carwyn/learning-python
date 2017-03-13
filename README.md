@@ -22,16 +22,15 @@ A shortlist of resources for learning Python.
 ## Tutorials
 
 * [Official Python Tutorial](https://docs.python.org/3/tutorial/)
-* [A Byte of Python](https://python.swaroopch.com/)
 * http://introtopython.org/
+* [A Byte of Python](https://python.swaroopch.com/)
 * http://www.learnpython.org/
 * [Google's Python Class](https://developers.google.com/edu/python/)
 
 ### In Depth Tutorials
 
 * [Learning to Program](http://www.alan-g.me.uk/l2p/index.htm) (Alan Gauld)
-* [How to Think Like a Computer Scientist](http://www.openbookproject.net/thinkcs/python/english3e/)
-  * [Interactive Version](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+* [How to Think Like a Computer Scientist](http://www.openbookproject.net/thinkcs/python/english3e/) ([Interactive Version](http://interactivepython.org/runestone/static/thinkcspy/index.html))
 
 ## Books
 
@@ -56,6 +55,12 @@ A shortlist of resources for learning Python.
 * [Try Python](https://try-python.appspot.com/)
 * https://trinket.io/
 * https://www.pythonanywhere.com/
+
+## Editors and IDEs
+
+* https://atom.io/ with [python-tools](https://atom.io/packages/python-tools) and [autocomplete-python](https://atom.io/packages/autocomplete-python)
+* [Visual Studio Code](https://code.visualstudio.com/) with [Python Extension](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
+* [PyCharm](https://www.jetbrains.com/pycharm/) and [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/)
 
 ## Gamification
 
