@@ -51,7 +51,7 @@ These guys get a special mention for their excellent collection of interactive C
 
 ### Online Books
 
-* [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) (Zed Shaw)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) (Zed Shaw) 4th edition first draft (Python3)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/)
 
