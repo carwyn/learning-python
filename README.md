@@ -99,7 +99,15 @@ There are [many](https://en.wikipedia.org/wiki/Comparison_of_integrated_developm
 * http://www.whoishostingthis.com/resources/python/
 * https://python.zeef.com/alan.richmond
 
-## Visual Programming
+
+## Other Things
+
+### Robots
+
+* http://www.sphero.com/education
+* https://www.lego.com/en-us/boost
+
+### Visual Programming
 
 * https://en.wikipedia.org/wiki/Visual_programming_language
 * https://scratch.mit.edu/ and https://www.scratchjr.org/
