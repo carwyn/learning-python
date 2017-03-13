@@ -75,10 +75,12 @@ These guys get a special mention for their excellent collection of interactive C
 There are [many](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Python)!
 
 ### Learning Environments
+
 * [IDLE](https://docs.python.org/3/library/idle.html) is Python’s own Integrated Development and Learning Environment.
 * http://thonny.org/ a very impressive learning environment.
 
 ### Advanced Environments
+
 * https://atom.io/ with [python-tools](https://atom.io/packages/python-tools) and [autocomplete-python](https://atom.io/packages/autocomplete-python)
 * [Visual Studio Code](https://code.visualstudio.com/) with [Python Extension](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
 * [PyCharm](https://www.jetbrains.com/pycharm/) and [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/)
@@ -92,6 +94,11 @@ There are [many](https://en.wikipedia.org/wiki/Comparison_of_integrated_developm
 
 * http://stackoverflow.com/
 * http://pyconuk.org/
+
+## Language Popularity (Pinch of Salt Required)
+
+* [Tiobe Index](http://www.tiobe.com/tiobe-index/)
+* [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
 
 ## Miscellaneous
 
