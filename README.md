@@ -45,6 +45,7 @@ A shortlist of resources for learning Python.
 ## Standout Resources
 
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/) (Kenneth Reitz)
+* [Python Packaging User Guide](https://packaging.python.org/)
 * [Awesome Python](https://awesome-python.com/)
 * [Python 3 Module of the Week](https://pymotw.com/3/)
 * [Full Stack Python](https://www.fullstackpython.com/)
@@ -58,6 +59,13 @@ A shortlist of resources for learning Python.
 
 ## Editors and IDEs
 
+There are [many](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Python)!
+
+### Learning Environments
+* [IDLE](https://docs.python.org/3/library/idle.html) is Python’s own Integrated Development and Learning Environment.
+* http://thonny.org/ a very impressive learning environment.
+
+### Advanced Environments
 * https://atom.io/ with [python-tools](https://atom.io/packages/python-tools) and [autocomplete-python](https://atom.io/packages/autocomplete-python)
 * [Visual Studio Code](https://code.visualstudio.com/) with [Python Extension](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
 * [PyCharm](https://www.jetbrains.com/pycharm/) and [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/)
