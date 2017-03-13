@@ -10,7 +10,7 @@ A shortlist of resources for learning Python.
 * [CS Unplugged - Computer Science without a computer](http://csunplugged.org/)
 * [MIT Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) ([edX Version](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9))
 * [Udacity Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
-* The Runestone interactive book resources below are also eceptional.
+* The Runestone interactive book resources mentioned below are also exceptional.
 
 ## Python
 
@@ -33,21 +33,21 @@ A shortlist of resources for learning Python.
 * [Learning to Program](http://www.alan-g.me.uk/l2p/index.htm) (Alan Gauld)
 * [How to Think Like a Computer Scientist](http://www.openbookproject.net/thinkcs/python/english3e/) ([Interactive Version](http://interactivepython.org/runestone/static/thinkcspy/index.html) by Runestone)
 
-## Runestone Interactive Books
+## Books
+
+* [There are LOTS of Books](http://pythonbooks.revolunet.com/)
+
+### Runestone Interactive Books
 
 These guys get a special mention for their excellent collection of interactive Computer Science and Python books.
 
-* http://runestoneinteractive.org/
+* [Runestone Interactive](http://runestoneinteractive.org/)
   * [Full Runestone Library](http://runestoneinteractive.org/library.html) (select titles below)
     * [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/runestone/static/thinkcspy/index.html)
     * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
     * [CS for All](https://www.cs.hmc.edu/csforall/)
     * [CS160 Course](http://computerscience.chemeketa.edu/cs160Reader/index.html)
     * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
-
-## Books
-
-* [There are LOTS of Books](http://pythonbooks.revolunet.com/)
 
 ### Online Books
 
@@ -92,7 +92,7 @@ There are [many](https://en.wikipedia.org/wiki/Comparison_of_integrated_developm
 * http://stackoverflow.com/
 * http://pyconuk.org/
 
-## Misc
+## Miscellaneous
 
 * https://hackr.io/tutorials/learn-python
 * https://www.quora.com/What-are-the-best-resources-for-learning-Python
