@@ -105,3 +105,4 @@ There are [many](https://en.wikipedia.org/wiki/Comparison_of_integrated_developm
 * https://scratch.mit.edu/ and https://www.scratchjr.org/
 * http://snap.berkeley.edu/
 * https://csprinciples.cs.washington.edu/sevenbigideas.html
+* https://www.gethopscotch.com/
