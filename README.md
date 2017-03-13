@@ -98,3 +98,6 @@ There are [many](https://en.wikipedia.org/wiki/Comparison_of_integrated_developm
 * https://www.quora.com/What-are-the-best-resources-for-learning-Python
 * http://www.whoishostingthis.com/resources/python/
 * https://python.zeef.com/alan.richmond
+* https://scratch.mit.edu/ and https://www.scratchjr.org/
+* http://snap.berkeley.edu/
+* https://csprinciples.cs.washington.edu/sevenbigideas.html
