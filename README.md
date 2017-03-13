@@ -82,6 +82,7 @@ There are [many](https://en.wikipedia.org/wiki/Comparison_of_integrated_developm
 * https://atom.io/ with [python-tools](https://atom.io/packages/python-tools) and [autocomplete-python](https://atom.io/packages/autocomplete-python)
 * [Visual Studio Code](https://code.visualstudio.com/) with [Python Extension](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
 * [PyCharm](https://www.jetbrains.com/pycharm/) and [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/)
+* https://ipython.org/ and https://jupyter.org/
 
 ## Gamification
 
