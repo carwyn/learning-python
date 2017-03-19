@@ -56,6 +56,10 @@ These guys get a special mention for their excellent collection of interactive C
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/)
 
+### Children's Books
+
+* [Codio Cyfrifiadur](http://www.rily.co.uk/index.php?mod=bookdetails&id=230) / [Computer Coding for Kids](https://www.amazon.co.uk/dp/B00KVPK4QO/)
+
 ## Standout Resources
 
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/) (Kenneth Reitz)
