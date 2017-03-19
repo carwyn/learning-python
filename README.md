@@ -94,6 +94,7 @@ There are [many](https://en.wikipedia.org/wiki/Comparison_of_integrated_developm
 ## Gamification
 
 * https://checkio.org/
+* https://lenovogamestate.com/
 
 ## Communities and Conferences
 
