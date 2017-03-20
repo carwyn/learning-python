@@ -2,8 +2,6 @@
 
 A shortlist of resources for learning Python.
 
-![XKCD Python](https://imgs.xkcd.com/comics/python.png)
-
 ## Computer Science
 
 * [In Finland, Kids Learn Computer Science Without Computers](https://www.theatlantic.com/education/archive/2017/02/teaching-computer-science-without-computers/517548/)
@@ -14,7 +12,6 @@ A shortlist of resources for learning Python.
 * [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)
 * [How to Design Programs](http://www.htdp.org/)
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
-* [Deep Learning](http://www.deeplearningbook.org/)
 * The Runestone interactive book resources mentioned below are also exceptional.
 
 ## Python
