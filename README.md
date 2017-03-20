@@ -2,6 +2,8 @@
 
 A shortlist of resources for learning Python.
 
+[Computer Science](./computer-science.md) links moved.
+
 ## Python
 
 * [The Official Python Website](https://www.python.org/)
