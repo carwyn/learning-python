@@ -8,4 +8,10 @@
 * [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html)
 * [How to Design Programs](http://www.htdp.org/)
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
-* The Runestone interactive book resources mentioned below are also exceptional.
+
+## Software Engineering
+
+* [The Tao Of Programming](http://huffman.sourceforge.net/tao/tao-of-programming.html)
+* [Code Complete](http://www.stevemcconnell.com/cc.htm)
+* [The Pragmatic Programmer From Journeyman to Master](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+* The Mythical Man Month
