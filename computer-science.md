@@ -15,3 +15,4 @@
 * [Code Complete](http://www.stevemcconnell.com/cc.htm)
 * [The Pragmatic Programmer From Journeyman to Master](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 * The Mythical Man Month
+* [Practical API Design: Confessions of a Java Framework Architect](http://www.springer.com/gp/book/9781430243175)
