@@ -24,6 +24,7 @@ A shortlist of resources for learning Python.
 
 * [Learning to Program](http://www.alan-g.me.uk/l2p/index.htm) (Alan Gauld)
 * [How to Think Like a Computer Scientist](http://www.openbookproject.net/thinkcs/python/english3e/) ([Interactive Version](http://interactivepython.org/runestone/static/thinkcspy/index.html) by Runestone)
+* [Alice in Python Projectland] (https://veekaybee.github.io/2017/09/26/python-packaging/)
 
 ## Books
 
