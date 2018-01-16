@@ -4,6 +4,10 @@ A shortlist of resources for learning Python.
 
 [Computer Science](./computer-science.md) links moved.
 
+## Pancake Recipies
+
+* [Pancakes, Served With a Side of Science](https://www.wired.com/2012/07/pancakes-served-with-a-side-of-science/)
+
 ## Python
 
 * [The Official Python Website](https://www.python.org/)
