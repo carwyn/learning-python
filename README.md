@@ -4,9 +4,12 @@ A shortlist of resources for learning Python.
 
 [Computer Science](./computer-science.md) links moved.
 
-## Pancake Recipies
+## Links From Workshop
 
+* [BBC Bitesize - What is an algorithm?](http://www.bbc.co.uk/guides/z3whpv4)
+* [Richard Feynman Computer Heuristics Lecture](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 * [Pancakes, Served With a Side of Science](https://www.wired.com/2012/07/pancakes-served-with-a-side-of-science/)
+
 
 ## Python
 
