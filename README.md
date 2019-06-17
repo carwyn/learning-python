@@ -68,10 +68,15 @@ These guys get a special mention for their excellent collection of interactive C
 * [Full Stack Python](https://www.fullstackpython.com/)
 * [Python Pedia](https://pythonpedia.com/)
 
+## Practice Material
+
+* https://www.practicepython.org/
+
 ## Online Environments
 
 * [Try Python](https://try-python.appspot.com/)
 * https://trinket.io/
+* https://repl.it/
 * https://www.pythonanywhere.com/
 
 ## Editors and IDEs
@@ -80,8 +85,15 @@ There are [many](https://en.wikipedia.org/wiki/Comparison_of_integrated_developm
 
 ### Learning Environments
 
-* [IDLE](https://docs.python.org/3/library/idle.html) is Python’s own Integrated Development and Learning Environment.
+* https://codewith.mu/ excellent for beginners.
 * http://thonny.org/ a very impressive learning environment.
+
+### Mobile Python
+
+Great for learning on the go.
+
+* [Pythonista 3](https://itunes.apple.com/us/app/pythonista-3/id1085978097?ls=1&mt=8) for iOS
+* [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 
 ### Advanced Environments
 
