@@ -68,6 +68,11 @@ These guys get a special mention for their excellent collection of interactive C
 * [Full Stack Python](https://www.fullstackpython.com/)
 * [Python Pedia](https://pythonpedia.com/)
 
+## Project and Dependency Management
+
+* https://python-poetry.org/
+* https://dephell.org/
+
 ## Practice Material
 
 * https://www.practicepython.org/
