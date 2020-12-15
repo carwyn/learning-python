@@ -36,6 +36,7 @@ A shortlist of resources for learning Python.
 ## Books
 
 * [There are LOTS of Books](http://pythonbooks.revolunet.com/)
+* [Many Free Books](https://www.pythonkitchen.com/legally-free-python-books-list/)
 
 ### Runestone Interactive Books
 
